@@ -1,3 +1,3 @@
-# DEmo Main header
+# Demo Main header
 
-SOme plain tehx description
+Some plain text description !
